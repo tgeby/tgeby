@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thomas Eby, and I am a recent college graduate from Northern Virginia.</p>
+<p align="left">My name is Thomas Eby, and I am from Northern Virginia.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2018<br>📚 I'm currently reviewing data structures and algorithms an addition to studying statistics.<br>🎯 Goals: To be hired as a Software Developer, to create interesting projects to become more marketable<br>🎲 Fun fact: I have a dog named Blue</p>
+<p align="left">✨ Coding since 2018<br>📚 I'm currently reviewing data structures and algorithms an addition to studying statistics.<br>🎯 Short-term Goals: To be hired as a Software Developer, to create interesting projects to become more marketable<br>🎲 Fun fact: I have a dog named Blue<br>⭐I graduated from the College of William and Mary</p>
 
 ###
 
