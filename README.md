@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thomas Eby, and I am from Northern Virginia.</p>
+<p align="left">My name is Thomas Eby, and I'm from Northern Virginia.</p>
 
 ###
 
@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left">✨ Coding since 2018<br>🎲 Fun fact: I have a dog named Blue<br>⭐I graduated from the College of William and Mary</p>
+<p align="left">✨ Coding since 2018<br>⭐I graduated from the College of William and Mary</p>
