@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2018<br>⭐I graduated from the College of William and Mary<br>I'm interested in personal improvement, and I'm making a website to host any helpful tools I come up with.<br>I've become quite a good runner in the past few years. In a few months I will run my first ten-miler!</p>
+<p align="left">✨ Coding since 2018<br>:sunglasses:I graduated from the College of William and Mary<br>:wave:I'm interested in personal improvement. I'm making a website to host any helpful tools I come up with.<br>:runner: In a few months I will run my first ten-miler!</p>
 
 ###
 
@@ -20,13 +20,29 @@
 
 <ul align="left">
 <li style="display: flex; flex-direction: column;">
-  <h3>Web Development</h3>
-  <p>At the start of this summer I spent a lot of time working with React, JavaScript, and CSS because I didn't learn about web development in school, but I am drawn toward Web Development and Software Engineering.<br>More recently, I have also been using TypeScript, Next.js, and TailwindCSS. I don't have much experience with Tailwind yet, but I am totally on-board with its design principles.</p>
+  <h3>Front-End Web Development</h3>
+  <p>React + TypeScript + Tailwind seems perfect to me. Next.js if necessary.<br>I will soon learn Angular. Which will I prefer then?</p>
+</li>
+  <li style="display: flex; flex-direction: column;">
+  <h3>Back-End Web Development</h3>
+  <p>Java is my first choice for back-end development although I have some experience working with Django and Node. I've been working with JDBC recently. So cool.</p>
 </li>
 <li style="display: flex; flex-direction: column;">
   <h3>Cloud Computing</h3>
-  <p>I took a very interesting elective course on Cloud Computing in my final semester of College. This included a review of Networking; exposure to different cloud computing components like VPC, Subnets, Load Balancer; and explored architecture and scalability choices for distributed systems.</p>
+  <p>I took an AWS-based elective on Cloud Computing which was pretty cool. My only non-academic experience so far is with Firebase, but I intend to make a project to host on AWS by the end of the year.</p>
 </li>
-
+<li style="display: flex; flex-direction: column;">
+  <h3>Embedded Systems</h3>
+  <p>I used C and C++ a lot in college. Maybe I'll use C++ for game development or C for embedded systems.</p>
+</li>
+  <li style="display: flex; flex-direction: column;">
+  <h3>Mobile Apps</h3>
+  <p>I did some Swift + SwiftUI work soon after I graduated. I'm not a huge fan of Swift, but I love Apple devices. I have plenty of apps I'd like to build for my watch.</p>
+</li>
+  </li>
+  <li style="display: flex; flex-direction: column;">
+  <h3>Data Science</h3>
+  <p>Python is my friend.</p>
+</li>
 </ul>
 
